@@ -1,0 +1,1 @@
+[Project 2 Dataset](../Src/Project%202/): To download the dataset please refer to [this](https://www.kaggle.com/datasets/kaggle/meta-kaggle) website and place it inside that project's directory.
